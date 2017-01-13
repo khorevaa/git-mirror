@@ -1,0 +1,6 @@
+[submodule "tests/fixtures/clone-repo"]
+	path = tests/fixtures/clone-repo
+	url = /media/khorevaa/764B7AA318E25C28/Проекты на OS/os/git-mirror-update/tests/fixtures/clone-repo
+[submodule "tests/fixtures/test-repo"]
+	path = tests/fixtures/test-repo
+	url = /media/khorevaa/764B7AA318E25C28/Проекты на OS/os/git-mirror-update/tests/fixtures/test-repo
